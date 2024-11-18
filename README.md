@@ -34,7 +34,7 @@ To get a local copy of this project, follow these steps:
 
 ## Features
 
-```text
-1. **Responsive Design**: Adjusts to different screen sizes using media queries for mobile (375px) and desktop (1440px).
-2. **Validation**: Ensures that all required fields are filled out and that the email is in a valid format.
-3. **Confirmation Modal**: Displays a modal with a success message when the form is successfully submitted.
+
+ **Responsive Design**: Adjusts to different screen sizes using media queries for mobile (375px) and desktop (1440px).
+ **Validation**: Ensures that all required fields are filled out and that the email is in a valid format.
+ **Confirmation Modal**: Displays a modal with a success message when the form is successfully submitted.
