@@ -53,3 +53,9 @@ To get a local copy of this project, follow these steps:
    5. Check the consent box to agree to the terms.
    6. Click the "Send Message" button to submit the form.
    7. A success message will be displayed in a modal upon successful submission.
+## License
+   This project is licensed under the Fish.
+
+## Contact
+   - Fitsum Tesfu
+   - Email: fitsumtesfu579@gmail.com
