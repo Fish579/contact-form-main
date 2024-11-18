@@ -30,4 +30,11 @@ To get a local copy of this project, follow these steps:
    ```
 3. **Open the project in your browser**
 
-You can simply open the index.html file in any modern browser to view the contact form.
+   You can simply open the index.html file in any modern browser to view the contact form.
+
+## Features
+
+```text
+1. **Responsive Design**: Adjusts to different screen sizes using media queries for mobile (375px) and desktop (1440px).
+2. **Validation**: Ensures that all required fields are filled out and that the email is in a valid format.
+3. **Confirmation Modal**: Displays a modal with a success message when the form is successfully submitted.
