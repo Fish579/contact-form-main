@@ -44,3 +44,12 @@ To get a local copy of this project, follow these steps:
 /contact-form-main
 ├── index.html           # The main HTML file for the contact form
 ```
+
+## How to Use
+   1. Open the index.html file in your browser.
+   2. Fill out the contact form with your details.
+   3. Select a query type (either "General Enquiry" or "Support Request").
+   4. Type a message in the message field.
+   5. Check the consent box to agree to the terms.
+   6. Click the "Send Message" button to submit the form.
+   7. A success message will be displayed in a modal upon successful submission.
