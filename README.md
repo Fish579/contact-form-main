@@ -29,4 +29,5 @@ To get a local copy of this project, follow these steps:
    cd contact-form-main
    ```
 3. **Open the project in your browser**
-   You can simply open the index.html file in any modern browser to view the contact form.
+
+You can simply open the index.html file in any modern browser to view the contact form.
