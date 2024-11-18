@@ -26,5 +26,7 @@ To get a local copy of this project, follow these steps:
    ```
 2. **Navigate to the project directory**
    ```bash
-   cd contact-form
+   cd contact-form-main
    ```
+3. **Open the project in your browser**
+   You can simply open the index.html file in any modern browser to view the contact form.
